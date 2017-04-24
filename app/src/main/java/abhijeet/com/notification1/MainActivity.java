@@ -13,7 +13,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 
     NotificationCompat.Builder nsb;
-    private  final int uniqueid=12320;
+    private  final int uniqueid=1232022;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
